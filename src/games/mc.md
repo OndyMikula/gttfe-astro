@@ -14,7 +14,7 @@ id: 3
 ## Zakazuje se:
 
 - V gamemodu vanilla je zakázán jakýkoliv typ campingu (např. používání elytra a raketek k campení ve vzduchu, nebo se kopat pod zem).
-- Hráči nesmí využívat žádný typ glitchu,bugů nebo hacků (pokud se nějaký takový hráč najde, celý jeho tým je vyhozen z turnaje).
+- Hráči nesmí využívat žádný typ glitchu, bugů nebo hacků (pokud se nějaký takový hráč najde, celý jeho tým je vyhozen z turnaje).
 - Nebýt toxic k ostatním protihráčům či spoluhráčům.
 
 ## Pro chat na serveru platí stejná pravidla jako na discordu.

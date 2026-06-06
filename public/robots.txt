@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /account/
+Disallow: /login/
+Disallow: /team/
+Allow: /
+
+Sitemap: https://gttournament.cz/sitemap-index.xml
